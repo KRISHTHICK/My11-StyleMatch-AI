@@ -1,0 +1,9 @@
+StyleMatchAI/
+├── app.py
+├── sample_data/
+│   ├── look1.jpg
+│   ├── look2.jpg
+│   ├── look3.jpg
+│   └── ...
+├── requirements.txt
+└── README.md
